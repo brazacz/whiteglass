@@ -1,2 +1,7 @@
 source "https://rubygems.org"
-gemspec
+
+gem "jekyll"
+gem "jekyll-archives"
+gem "jekyll-paginate"
+gem "jekyll-sitemap"
+gem "tzinfo-data"
